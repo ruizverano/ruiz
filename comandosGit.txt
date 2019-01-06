@@ -10,3 +10,4 @@ git remote add origin https://github.com/ruizverano/ruiz.git
 git push -u origin master
 
 cambio
+cambio clonado
